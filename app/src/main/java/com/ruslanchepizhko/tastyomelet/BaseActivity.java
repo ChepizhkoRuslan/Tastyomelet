@@ -8,7 +8,7 @@ public class BaseActivity extends AppCompatActivity {
 
     @VisibleForTesting
     public ProgressDialog mProgressDialog;
-    final static String TAG ="myLogs";
+    final static String TAG ="myLogsss";
 
     public void showProgressDialog() {
         if (mProgressDialog == null) {
